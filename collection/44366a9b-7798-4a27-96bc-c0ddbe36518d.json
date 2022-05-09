@@ -1,0 +1,1 @@
+{"info":{"_postman_id":"44366a9b-7798-4a27-96bc-c0ddbe36518d","name":"DemoFiberService","schema":"https://schema.getpostman.com/json/collection/v2.1.0/collection.json"},"item":[{"name":"FetchCustomerInfo","id":"256a8955-2b7c-43a8-ac8f-214007a1f002","protocolProfileBehavior":{"disableBodyPruning":true},"request":{"method":"GET","header":[]},"response":[]}]}
